@@ -21,7 +21,7 @@ To play the Tic Tac Toe game, open the `index.html` file in a web browser. You w
 
 ## Preview
 
-You can preview and play the game online [here](https://username.github.io/tic-tac-toe/).
+You can preview and play the game online [here](https://LaythAlqadhi.github.io/tic-tac-toe/).
 
 ## Customization
 
